@@ -1,5 +1,5 @@
 guest_id,main_guest_name,main_guest_gender,main_guest_dob,sec_guest_name,sec_guest_gender,sec_guest_dob,address,postcode
-001,Bobs,male,12/01/1982,Sussy,female,24/04/1983,AAABBB Street,AA_10
+001,Bob,male,12/01/1982,Sussy,female,24/04/1983,AAABBB Street,AA_10
 002,Andre,male,15/01/1985,,,,YYYZZZ Street,YY_10
 003,Ali,male,20/04/1987,Shafina,female,25/12/1990,AAAAAA Street, AL_20
 004,Elvi,male,16/03/1988,Chinchu,female,20/04/1988,CHNCCC Street,1001
