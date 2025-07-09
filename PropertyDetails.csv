@@ -1,0 +1,4 @@
+property_id,location,country,currency_code,exchange_rate,lattitude,longitude
+LON01,London,UK,GBP,0.80,51.5072,0.1276
+CA01,Los Angeles,USA,USD,1,34.0549,118.2426
+GR01,Santorini,Greece,EUR,0.90,36.3932,25.4615
